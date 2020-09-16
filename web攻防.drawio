@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-16T19:25:18.168Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="obYYLZ8M0oZUapJjcraD" version="13.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-16T23:30:57.463Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="i8iPsZdZuZ2F4PkKjgu8" version="13.7.2" type="github">
   <diagram id="dy_8Izg7FnlNef2klucm" name="第 1 页">
-    <mxGraphModel dx="2274" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400" pageHeight="500" math="0" shadow="1">
+    <mxGraphModel dx="1025" dy="252" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400" pageHeight="500" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,12 +23,6 @@
         <mxCell id="IFFRn_ugBCJUuxa1NSOB-40" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=oval;endFill=1;strokeColor=#59FF7A;" edge="1" parent="1" target="IFFRn_ugBCJUuxa1NSOB-39">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="401" y="264" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="410" y="264" />
-              <mxPoint x="410" y="287" />
-              <mxPoint x="390" y="287" />
-              <mxPoint x="390" y="320" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="IFFRn_ugBCJUuxa1NSOB-41" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.041;entryY=0.422;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=oval;endFill=1;strokeColor=#59FF7A;" edge="1" parent="1" source="IFFRn_ugBCJUuxa1NSOB-4" target="IFFRn_ugBCJUuxa1NSOB-38">
@@ -80,12 +74,13 @@
         <mxCell id="IFFRn_ugBCJUuxa1NSOB-12" value="W" style="rhombus;whiteSpace=wrap;html=1;fillColor=#59FF7A;align=center;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="7" y="90" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="IFFRn_ugBCJUuxa1NSOB-13" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=oval;startFill=1;endArrow=none;endFill=0;strokeWidth=3;fillColor=#ffe6cc;strokeColor=#DF3DFF;endSize=0;targetPerimeterSpacing=3;" edge="1" source="IFFRn_ugBCJUuxa1NSOB-12" target="IFFRn_ugBCJUuxa1NSOB-2" parent="1">
+        <mxCell id="IFFRn_ugBCJUuxa1NSOB-13" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=oval;startFill=1;endArrow=none;endFill=0;strokeWidth=3;fillColor=#ffe6cc;strokeColor=#DF3DFF;endSize=0;targetPerimeterSpacing=3;entryX=0.064;entryY=0.201;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="IFFRn_ugBCJUuxa1NSOB-12" target="IFFRn_ugBCJUuxa1NSOB-2" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="608" y="259" as="targetPoint" />
             <Array as="points">
               <mxPoint x="106" y="130" />
               <mxPoint x="106" y="205" />
+              <mxPoint x="141" y="205" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -104,9 +99,10 @@
         <mxCell id="IFFRn_ugBCJUuxa1NSOB-10" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=circle;endFill=1;strokeWidth=3;fillColor=#ffe6cc;strokeColor=#DF3DFF;endSize=0;targetPerimeterSpacing=3;" edge="1" parent="1" source="IFFRn_ugBCJUuxa1NSOB-2" target="IFFRn_ugBCJUuxa1NSOB-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IFFRn_ugBCJUuxa1NSOB-11" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=circle;endFill=1;strokeWidth=3;fillColor=#ffe6cc;strokeColor=#DF3DFF;endSize=0;targetPerimeterSpacing=3;startSize=0;" edge="1" parent="1" source="IFFRn_ugBCJUuxa1NSOB-2" target="IFFRn_ugBCJUuxa1NSOB-3">
+        <mxCell id="IFFRn_ugBCJUuxa1NSOB-11" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=circle;endFill=1;strokeWidth=3;fillColor=#ffe6cc;strokeColor=#DF3DFF;endSize=0;targetPerimeterSpacing=3;startSize=0;exitX=0.944;exitY=0.193;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="IFFRn_ugBCJUuxa1NSOB-2" target="IFFRn_ugBCJUuxa1NSOB-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="241" y="205" />
               <mxPoint x="287" y="205" />
               <mxPoint x="287" y="153" />
             </Array>
@@ -115,7 +111,7 @@
         <mxCell id="IFFRn_ugBCJUuxa1NSOB-19" value="&lt;ul&gt;&lt;li&gt;永远不要相信客户的输入&lt;/li&gt;&lt;li&gt;前端没有绝对的安全&lt;/li&gt;&lt;li&gt;不能加密,只能混淆&lt;/li&gt;&lt;li&gt;重要机密可以用wasm&lt;/li&gt;&lt;li&gt;sql注入&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFD966;arcSize=25;align=left;" vertex="1" parent="1">
           <mxGeometry x="450" y="70" width="180" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="IFFRn_ugBCJUuxa1NSOB-105" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;startSize=6;sourcePerimeterSpacing=0;endArrow=oval;endFill=1;endSize=6;targetPerimeterSpacing=0;strokeColor=#000000;fontSize=3;" edge="1" parent="1" source="IFFRn_ugBCJUuxa1NSOB-38" target="IFFRn_ugBCJUuxa1NSOB-90">
+        <mxCell id="IFFRn_ugBCJUuxa1NSOB-105" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;startSize=6;sourcePerimeterSpacing=0;endArrow=oval;endFill=1;endSize=6;targetPerimeterSpacing=0;fontSize=3;strokeColor=#FFD966;" edge="1" parent="1" source="IFFRn_ugBCJUuxa1NSOB-38" target="IFFRn_ugBCJUuxa1NSOB-90">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IFFRn_ugBCJUuxa1NSOB-38" value="&lt;div&gt;&lt;span&gt;攻击&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFD966;arcSize=50;align=center;" vertex="1" parent="1">
@@ -218,32 +214,62 @@
         <mxCell id="IFFRn_ugBCJUuxa1NSOB-91" value="&lt;font style=&quot;font-size: 11px&quot;&gt;CSRF(Cross Site Request Forgery)，即跨站请求伪造，是一种常见的Web攻击，它利用用户已登 录的身份，在用户毫不知情的情况下，以用户的名义完成非法操作。&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=none;arcSize=24;align=center;fontSize=3;" vertex="1" parent="1">
           <mxGeometry x="610" y="460" width="237" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="IFFRn_ugBCJUuxa1NSOB-92" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;startSize=6;sourcePerimeterSpacing=0;endArrow=oval;endFill=1;endSize=6;targetPerimeterSpacing=0;" edge="1" parent="1" source="IFFRn_ugBCJUuxa1NSOB-90" target="IFFRn_ugBCJUuxa1NSOB-91">
+        <mxCell id="IFFRn_ugBCJUuxa1NSOB-92" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;startSize=6;sourcePerimeterSpacing=0;endArrow=oval;endFill=1;endSize=6;targetPerimeterSpacing=0;exitX=0.957;exitY=0.842;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="IFFRn_ugBCJUuxa1NSOB-90" target="IFFRn_ugBCJUuxa1NSOB-91">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="729" y="560" />
+              <mxPoint x="569" y="410" />
+              <mxPoint x="660" y="410" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="IFFRn_ugBCJUuxa1NSOB-102" value="&lt;b&gt;特点&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=none;arcSize=3;align=left;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="590" y="610" width="182.08" height="93.33" as="geometry" />
+          <mxGeometry x="470" y="540" width="182.08" height="93.33" as="geometry" />
         </mxCell>
-        <mxCell id="IFFRn_ugBCJUuxa1NSOB-104" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;startSize=6;sourcePerimeterSpacing=0;endArrow=oval;endFill=1;endSize=6;targetPerimeterSpacing=0;strokeColor=#000000;fontSize=3;exitX=0.151;exitY=0.905;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.016;entryY=0.069;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IFFRn_ugBCJUuxa1NSOB-90" target="IFFRn_ugBCJUuxa1NSOB-102">
+        <mxCell id="IFFRn_ugBCJUuxa1NSOB-104" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;startSize=6;sourcePerimeterSpacing=0;endArrow=oval;endFill=1;endSize=6;targetPerimeterSpacing=0;strokeColor=#000000;fontSize=3;exitX=0.605;exitY=1.032;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.683;entryY=-0.035;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IFFRn_ugBCJUuxa1NSOB-90" target="IFFRn_ugBCJUuxa1NSOB-102">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="560" y="600" as="targetPoint" />
             <mxPoint x="612" y="760.0000000000001" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="528" y="491" />
-              <mxPoint x="546" y="491" />
-              <mxPoint x="546" y="616" />
+              <mxPoint x="551" y="380" />
+              <mxPoint x="550" y="380" />
+              <mxPoint x="550" y="537" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="IFFRn_ugBCJUuxa1NSOB-103" value="&lt;font&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;主要利用第三方网站要求访问用户&lt;br&gt;&lt;/span&gt;访问受攻击网站,由于受攻击带有&lt;br&gt;登录态,所以从第三方网站访问受&lt;br&gt;攻击网站,也能获取登录的信息,&lt;br&gt;比较隐蔽,但危害不会扩大,只局限&lt;br&gt;单一浏览器&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=3;" vertex="1" parent="1">
-          <mxGeometry x="590" y="639.9966666666667" width="200" height="30" as="geometry" />
+          <mxGeometry x="470" y="569.9966666666667" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IFFRn_ugBCJUuxa1NSOB-90" value="CSRF" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=none;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="520" y="320" width="51" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="IFFRn_ugBCJUuxa1NSOB-111" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.107;exitY=0.844;exitDx=0;exitDy=0;entryX=0.525;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;startSize=6;sourcePerimeterSpacing=0;endArrow=oval;endFill=1;endSize=6;targetPerimeterSpacing=0;fontSize=3;exitPerimeter=0;" edge="1" parent="1" source="IFFRn_ugBCJUuxa1NSOB-107" target="IFFRn_ugBCJUuxa1NSOB-110">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="475" y="380" />
+              <mxPoint x="434" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IFFRn_ugBCJUuxa1NSOB-107" value="点击劫持" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=none;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="470" y="340" width="51" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="IFFRn_ugBCJUuxa1NSOB-108" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;startSize=6;sourcePerimeterSpacing=0;endArrow=oval;endFill=1;endSize=6;targetPerimeterSpacing=0;strokeColor=#FFD966;fontSize=3;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="IFFRn_ugBCJUuxa1NSOB-38" target="IFFRn_ugBCJUuxa1NSOB-107">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="340" as="targetPoint" />
+            <mxPoint x="460" y="313" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="510" y="303" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IFFRn_ugBCJUuxa1NSOB-110" value="&lt;span style=&quot;font-size: 11px&quot;&gt;和CSRF有点像,不过点击劫持主要负责劫持点击事件,通过iframe 的target标签,同样局限于单一浏览器&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=none;arcSize=24;align=center;fontSize=3;" vertex="1" parent="1">
+          <mxGeometry x="310" y="410" width="237" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IFFRn_ugBCJUuxa1NSOB-113" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;fillColor=none;fontSize=3;align=center;rotation=-15;" vertex="1" parent="1">
+          <mxGeometry x="140.5" y="133" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IFFRn_ugBCJUuxa1NSOB-114" value="&lt;span&gt;散列表&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=3;" vertex="1" parent="1">
+          <mxGeometry x="160" y="158" width="50" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
